@@ -25,5 +25,14 @@ function setup() {
   triangle(270, 470, 230, 520, 147 ,370);
   rect(230, 470, 50, 50);
   
+  //big font 
+  fill("#FEFEFE");
+  textFont("Helvetica");
+  textStyle(BOLD);
+  textSize(80);
   
+  text("the", 140, 375);
+  fill("#252525");
+  text("shining", 275, 375);
+
   }
