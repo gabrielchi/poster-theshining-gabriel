@@ -16,6 +16,7 @@ function setup() {
   
   text("jack", 40, 590);
   text("nicholson", 35, 615);
+  //hi//
 
   //shapes
   fill("#252525");
